@@ -5,7 +5,9 @@ import React from 'react'
 
 function App() {
   return (
-    <div>App</div>
+    <div> 
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis corporis omnis ratione. In, quisquam possimus. Quis asperiores maxime quibusdam natus!</p>
+    </div>
   )
 }
 
